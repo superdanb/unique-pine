@@ -6,7 +6,7 @@ sections:
     variant: variant-a
     colors: colors-e
     bottomGap: none
-    width: wide
+    width: full
     contentAlignHoriz: center
     title: Blog
     posts:
