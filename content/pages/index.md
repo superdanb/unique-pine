@@ -71,7 +71,7 @@ sections:
     topGap: small
     bottomGap: small
     contentWidth: large
-    contentAlignHoriz: left
+    contentAlignHoriz: center
     contentAlignVert: middle
     elementId: ''
     title: Let's do this
