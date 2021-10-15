@@ -3,7 +3,7 @@ title: Post Title Three
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
-excerpt: Sample 123
+excerpt: 'Sample 123 '
 featuredImage:
   type: ImageBlock
   url: /images/post-2.jpeg
