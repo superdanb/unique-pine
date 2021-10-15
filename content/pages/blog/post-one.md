@@ -3,12 +3,11 @@ title: Post Title One
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
-excerpt: |-
-  Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
+excerpt: This is a great piece of excerpt
 featuredImage:
   type: ImageBlock
-  url: '/images/post-1.jpeg'
-  altText: 'Post Image'
+  url: /images/post-1.jpeg
+  altText: Post Image
 bottomSections:
   - type: CtaSection
     colors: colors-e
@@ -16,8 +15,9 @@ bottomSections:
     width: wide
     height: short
     title: Let's do this
-    text: |-
-      The Stackbit theme is flexible and scalable to every need. It can manage any layout and any screen.
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
     actions:
       - type: Button
         label: Get Started
