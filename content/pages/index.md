@@ -30,7 +30,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/desmond-eagle.jpg
       altText: Image alt text
       caption: Image caption
     featurePosition: right
