@@ -67,7 +67,7 @@ sections:
         textAlign: center
   - colors: colors-c
     width: full
-    height: tall
+    height: short
     topGap: medium
     bottomGap: medium
     contentWidth: large
