@@ -70,7 +70,7 @@ sections:
     height: short
     topGap: small
     bottomGap: small
-    contentWidth: large
+    contentWidth: medium
     contentAlignHoriz: left
     contentAlignVert: middle
     elementId: ''
