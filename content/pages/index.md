@@ -20,14 +20,14 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Learn More
-        url: 'https://www.stackbit.com/'
-        style: secondary
-      - type: Button
         label: Get Started
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
+      - type: Button
+        label: Learn More
+        url: 'https://www.stackbit.com/'
+        style: secondary
     feature:
       type: ImageBlock
       url: /images/hero.png
