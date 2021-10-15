@@ -2,28 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: FeaturedPostsSection
-    variant: variant-b
-    colors: colors-c
-    width: wide
-    height: short
-    contentWidth: medium
-    contentAlignHoriz: center
-    contentAlignVert: middle
-    bottomGap: none
-    topGap: none
-    title: Blog Posts
-    posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
-    styles:
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        textAlign: center
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
@@ -65,6 +43,28 @@ sections:
         textAlign: left
       actions:
         textAlign: left
+  - type: FeaturedPostsSection
+    variant: variant-b
+    colors: colors-c
+    width: wide
+    height: short
+    contentWidth: medium
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    bottomGap: none
+    topGap: none
+    title: Blog Posts
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
+    styles:
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        textAlign: center
   - colors: colors-c
     width: full
     height: short
