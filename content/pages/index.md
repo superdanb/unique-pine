@@ -66,7 +66,7 @@ sections:
       actions:
         textAlign: center
   - colors: colors-c
-    width: wide
+    width: full
     height: tall
     topGap: medium
     bottomGap: medium
