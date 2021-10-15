@@ -3,7 +3,7 @@ title: Post Title One
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
-excerpt: This is a great piece of excerpt
+excerpt: This is a great piece of excerpt@
 featuredImage:
   type: ImageBlock
   url: /images/post-1.jpeg
