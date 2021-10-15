@@ -92,7 +92,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-    actionsPosition: right
+    actionsPosition: bottom
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum
