@@ -69,7 +69,7 @@ sections:
     width: full
     height: short
     topGap: small
-    bottomGap: medium
+    bottomGap: small
     contentWidth: large
     contentAlignHoriz: left
     contentAlignVert: middle
