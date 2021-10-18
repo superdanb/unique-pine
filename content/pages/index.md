@@ -26,7 +26,7 @@ sections:
         elementId: hero-main-button
     feature:
       type: ImageBlock
-      url: /images/desmond-eagle.jpg
+      url: /images/dianne-ameter.jpg
       altText: Image alt text
       caption: Image caption
     featurePosition: right
